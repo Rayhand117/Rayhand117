@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ga tau](facebook.com)
 
-- 🌱 I’m currently learning **html**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 👯 I’m looking to collaborate on [kolaborasi](google.com)
 
